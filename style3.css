@@ -32,6 +32,3 @@ p{
 	font-size: 40px;
 }
 
-p.myclass:before, p.myclass:after {
-    content: '"';
-}
